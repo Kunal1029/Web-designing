@@ -1,0 +1,40 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.header{
+	width: 100%;
+	height: 65px;
+}
+.header img{
+	width: 10%;
+	padding: 18px;
+	padding-left: 124px;
+}
+.menu{
+	float: right;
+	padding-top: 23px;
+	padding-right: 143px;
+}
+.image{
+	background: url('../image/logo1.jpg');
+	width: 100%;
+	height: 600px;
+	background-size: cover;
+}
+.image h1{
+	text-align: center;
+	font-size: 40px;
+	font-weight: normal;
+	letter-spacing: 1px;
+	font-family: sans-serif;
+	color: #fff;
+	font-family: serif;
+	/*background: #9b3333;*/
+	background: transparent;
+	margin: auto;
+	width: 60%;
+	position: relative;
+	top: 300px;
+	/*border: 2px solid;*/
+}
